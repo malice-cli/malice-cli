@@ -29,6 +29,6 @@
 https://user-images.githubusercontent.com/95049678/179374644-db69f08f-a08c-40bd-ba00-8066e8f9fdce.mp4
 
 
- 
+<i>I made this on a fucking ChromeBook, are ya proud of me?</i>
 
 
