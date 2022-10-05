@@ -11,13 +11,7 @@
 <img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </p>
-<h5>Terminal libraries I use</h5>
-<p>
-<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 
-</p>
 
 
 
@@ -27,8 +21,5 @@
   
 
 https://user-images.githubusercontent.com/95049678/179374644-db69f08f-a08c-40bd-ba00-8066e8f9fdce.mp4
-
-
-<i>I made this on a fucking ChromeBook, are ya proud of me?</i>
 
 
