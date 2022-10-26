@@ -17,12 +17,13 @@
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="36px" />
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="36px" />
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="36px" />
 </div>
 
 ## Backend
 <div style="display: block;">
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="36px" />
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="36px" />
 <img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="36px" />
-<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-plain.svg" height="36px" />
 </div>
