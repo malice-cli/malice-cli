@@ -2,24 +2,27 @@
 <a href="https://github.com/malice-cli/"><img src="https://github-readme-stats.vercel.app/api?username=malice-cli&theme=dracula&custom_title=Hello,%20I%27m%20m2.&layoud=compact&show_owner=true&show_icons=true" width=1000px></a>
 </p>
 </br>
-<h5>Languages I know</h5>
- <p>
-<img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
-<img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img height = "100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</p>
 
+## Languages
+<div style="display: block;">
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="36px" />
+</div>
 
+## Frontend
+<div style="display: block;">
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" height="36px" />
+</div>
 
-
-
-
-</br></br></br>
-  
-
-https://user-images.githubusercontent.com/95049678/179374644-db69f08f-a08c-40bd-ba00-8066e8f9fdce.mp4
-
-
+## Backend
+<div style="display: block;">
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="36px" />
+<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-plain.svg" height="36px" />
+</div>
